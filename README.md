@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
 ```python
 global Gokhlesh = {
   'pronouns': 'he' | 'him',
-  'code': [C, C++, Python, HTML, CSS, JavaScript, React],
+  'code': [C++, Java, Python, HTML, CSS, JavaScript, React],
   'tools': [Node.js, Mediapipe, OpenCV, Bootstrap],
   'architecture': ["IDK"],
 
