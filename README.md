@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes.
 global Gokhlesh = {
   'pronouns': 'he' | 'him',
   'code': [C++, Java, Python, HTML, CSS, JavaScript, React],
-  'tools': [Node.js, Mediapipe, OpenCV, Bootstrap],
+  'tools': [Node.js, Solidity, OpenCV, Bootstrap],
   'architecture': ["IDK"],
 
   'challenge': "Productivity and Passion, Developing Tools to build Atomic structure"
