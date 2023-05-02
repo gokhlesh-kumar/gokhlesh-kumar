@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
   <img align="left" alt="Gokhlesh Kumar's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=gokhlesh-kumar)
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=gokhlesh-kumar) -->
 
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
