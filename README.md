@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 <p><em>Student at <a href="https://www.cuchd.in/">CHANDIGARH UNIVERSITY</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Currently Working on <a href="#">Development & Productivity, Inhancing skills on web and android development</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-<a href="https://www.linkedin.com/in/gokhlesh-kumar/">
+<!-- <a href="https://www.linkedin.com/in/gokhlesh-kumar/">
   <img align="left" alt="Gokhlesh Kumar's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
