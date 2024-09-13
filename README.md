@@ -28,9 +28,9 @@ Software Developer<a href="#"> @ Softsensor.ai</a><img src="https://media.giphy.
 ```python
 global Gokhlesh = {
   'pronouns': 'he' | 'him',
-  'code': [C++, Java, Python, HTML, CSS, JavaScript, React],
-  'tools': [Node.js, Solidity, OpenCV, Bootstrap],
-  'architecture': ["IDK"],
+  'code': [C++, Java, Typescript, React Native, NextJs, JavaScript, React],
+  'tools': [Android Studio, Flipper, JIRA],
+  'frameworks': [NodeJs, React Query, MUI, Redux],
 
   'challenge': "Productivity and Passion, Developing Tools to build Atomic structure"
   'what do I like other than coding?': "Reading Books, Cycling, Movie, Fun-with-friends"
